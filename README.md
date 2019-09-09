@@ -7,4 +7,8 @@
 #### The code for this art design resides in Bouncing Ball Folder.
 <img src="./samples/bouncing_ball_art.gif">
 
-##
+## Gap Filling Growing Balls
+
+#### The code for this art design resides in Growing Circles Folder.
+<img src="./samples/GapFillingGrowingCircles.gif">
+
