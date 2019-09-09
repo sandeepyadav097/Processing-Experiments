@@ -12,3 +12,14 @@
 #### The code for this art design resides in Growing Circles Folder.
 <img src="./samples/GapFillingGrowingCircles.gif">
 
+## Image Character Art
+
+#### The code for this art design resides in Art_2019 Folder.
+
+##### The original image is :-
+
+<img src="./Art_2019/2019.jpg">
+
+##### The Art looks like :-
+<img src="./samples/Art_2019.gif">
+
