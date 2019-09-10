@@ -23,6 +23,11 @@
 ##### The Art looks like :-
 <img src="./samples/Art_2019.gif">
 
+## Wave
+
+#### The code for this art design resides in the Wave Folder.
+
+<img src="./samples/Wave.gif">
 
 
 ## A Line Turns Eye
@@ -42,3 +47,4 @@
 #### The code for this art design resides in the Circles Folder.
 #### Inspiration- [Link](https://www.youtube.com/watch?v=94183oE1y6U)
 <img src="./samples/Circles.gif">
+

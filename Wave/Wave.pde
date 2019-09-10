@@ -76,7 +76,7 @@ void draw(){
 
   for(int i=0; i<num; i++){ 
     stroke(arr[i]);
-  line(x1(t+i),y1(t+i), x2(t+i), y2(t+i));
+  line(x1(t+i),y1(t+i),x2(t+i), y2(t+i));
   }
   
   
