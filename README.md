@@ -23,3 +23,22 @@
 ##### The Art looks like :-
 <img src="./samples/Art_2019.gif">
 
+
+
+## A Line Turns Eye
+
+#### The code for this art design resides in the ALineTurnsEye.
+
+#### Inspiration- [Link](https://www.youtube.com/watch?v=94183oE1y6U)
+<img src="./samples/AlineTurnsEye.gif">
+
+## Arcs
+
+#### The code for this art design resides in Arc Folder. The arc length is controlled by the mouse position.
+<img src="./samples/Arcs.gif">
+
+## Circles
+
+#### The code for this art design resides in the Circles Folder.
+#### Inspiration- [Link](https://www.youtube.com/watch?v=94183oE1y6U)
+<img src="./samples/Circles.gif">
