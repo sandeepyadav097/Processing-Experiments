@@ -17,10 +17,10 @@
 #### The code for this art design resides in the Kimetsu No Yaiba Folder.
 
 
+##### Video Sample can be found inside samples folder [Link](./samples/TanjiroKaguraDance.mp4).
 
-<video  height="300" controls>
-  <source src="./samples/TanjiroKaguraDance.mp4" type="video/mp4">
-</video>
+##### The Art looks like :-
+<img src="./samples/TanjiroKaguraDance.gif">
 
 
 ## Image Character Art
