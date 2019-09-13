@@ -12,6 +12,15 @@
 #### The code for this art design resides in Growing Circles Folder.
 <img src="./samples/GapFillingGrowingCircles.gif">
 
+## Kimetsu No Yaiba Art
+
+#### The code for this art design resides in the Kimetsu No Yaiba Folder.
+
+<video  height="300" controls>
+  <source src="./samples/TanjiroKaguraDance.mp4" type="video/mp4">
+</video>
+
+
 ## Image Character Art
 
 #### The code for this art design resides in Art_2019 Folder.
