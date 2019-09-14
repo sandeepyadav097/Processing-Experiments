@@ -22,6 +22,14 @@
 ##### The Art looks like :-
 <img src="./samples/TanjiroKaguraDance.gif">
 
+## ConcentricCircles
+
+#### The code for this art design resides in ConcentricCircles Folder.
+
+
+##### The Art looks like :-
+<img src="./samples/ConcentricCircles.gif">
+
 
 ## Image Character Art
 
