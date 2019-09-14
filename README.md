@@ -28,7 +28,7 @@
 
 
 ##### The Art looks like :-
-<img src="./samples/ConcentricCircles.gif">
+<img src="./samples/concentricCircles.gif">
 
 
 ## Image Character Art
